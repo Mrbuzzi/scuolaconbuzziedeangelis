@@ -1,5 +1,5 @@
 /*
-nomi: Buzzi Christian , Rastelli Damiano, Mattia De Angelis 
+nomi: Buzzi Christian , Rastelli Damiano
 classe: 3bi
 data: 21/02/2023
 versione: 1.1
@@ -151,7 +151,7 @@ double Area_cerchio(double raggio)
    Area=pow(raggio,2)*PGRECO;
    return Area;
 }
-
+Porcodio 
 
 
 
